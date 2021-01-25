@@ -45,7 +45,7 @@ The completed database contained the following analysis:
 
 8. In descending order, a list of the frequency count of employee last names, i.e., how many employees share each last name.
 
-##[Bonus](https://github.com/Chahnaz-Kbaisi/SQL-Employee-Database/tree/main/Bonus)
+## [Bonus](https://github.com/Chahnaz-Kbaisi/SQL-Employee-Database/tree/main/Bonus)
 
 The following steps were taken to generate a visualization of the data:
 
